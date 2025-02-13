@@ -13,7 +13,7 @@ Este é um projeto de página HTML e CSS simples para exibição de um currícul
 
 3. Abra o arquivo `index.html` em um navegador.
 
-4. Para personalizar, edite os arquivos `index.html` e `styles.css` conforme necessário.
+4. Para personalizar, edite os arquivos `index.html` e `style.css` conforme necessário.
 
 ## Publicação no GitHub Pages
 
